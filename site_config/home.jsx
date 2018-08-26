@@ -4,7 +4,7 @@ export default {
   'zh-cn': {
     brand: {
       brandName: 'Halo Framework',
-      briefIntroduction: 'Halo框架是基于CQRS+扩展点+流程编排的应用框架',
+      briefIntroduction: 'Halo(光环)框架是基于领域驱动+CQRS+扩展点+流程编排的应用框架',
       buttons: [
         {
           text: '立即开始',
