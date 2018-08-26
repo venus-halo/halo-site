@@ -4,7 +4,7 @@ export default {
   'zh-cn': {
     brand: {
       brandName: 'Halo Framework',
-      briefIntroduction: 'Halo框架是基于CQRS+扩展点+流程编排的应用框架，致力于采用领域驱动的设计思想，规范控制程序员的随心所欲，从而解决软件的复杂性问题。 架构原则很简单，即在高内聚，低耦合，可扩展，易理解大的指导思想下，尽可能的贯彻OO的设计思想和原则。',
+      briefIntroduction: 'Halo框架是基于CQRS+扩展点+流程编排的应用框架',
       buttons: [
         {
           text: '立即开始',
@@ -13,7 +13,7 @@ export default {
         },
         {
           text: '查看Github',
-          link: '',
+          link: 'https://github.com/SoftwareKing/halo',
           type: 'normal',
         },
       ],
