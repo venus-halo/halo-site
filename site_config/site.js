@@ -119,6 +119,6 @@ export default {
         }
       ]
     },
-    copyright: 'Copyright © 2018 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    copyright: 'Copyright © 2018-2022 Spring Cloud中国社区 xujn.org'
   }
 };
